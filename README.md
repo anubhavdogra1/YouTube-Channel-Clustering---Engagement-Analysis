@@ -12,7 +12,7 @@ The dataset contains YouTube channel and video-level statistics including:
 - Engagement ratios: `likes/views`, `comments/subscriber`, `dislikes/views`, etc.
 - Aggregate metrics: `subscriberCount`, `videoViewCount`, `channelViewCount`, `videoCount`
 
-**Source:** Kaggle
+**Source:** https://www.kaggle.com/datasets/thedevastator/youtube-video-and-channel-analytics
 
 ---
 

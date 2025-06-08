@@ -51,6 +51,23 @@ Created engagement-based ratios:
 - **Cluster 2** channels dominated in volume but underperformed in subscriber interaction — indicating mass content with low loyalty.
 - Certain categories like *Gaming* and *Education* consistently clustered in high-engagement groups.
 
+
+---
+
+## 📌 Tools Used
+
+- 🐍 Python (Pandas, Scikit-learn, Seaborn for exploration)
+- 📈 Tableau (Dashboard and cluster analysis)
+- 📊 K-Means Clustering
+- 💻 Jupyter Notebook (Optional for preprocessing)
+
+---
+
+## 🔗 Tableau Dashboard
+
+> [Click here to view the interactive Tableau dashboard](#)
+https://public.tableau.com/app/profile/anubhavdogra/viz/YouTube-Channel-Clustering---Engagement-Analysis/YouTubeClusterDashboard
+
 ---
 
 # Contact

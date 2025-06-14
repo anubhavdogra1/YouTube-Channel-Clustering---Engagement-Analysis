@@ -54,7 +54,7 @@ Created engagement-based ratios:
 
 ---
 
-## 📌 Tools Used
+## Tools Used
 
 - Python (Pandas, Scikit-learn, Seaborn for exploration)
 - Tableau (Dashboard and cluster analysis)

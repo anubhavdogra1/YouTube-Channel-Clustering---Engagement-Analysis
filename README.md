@@ -56,14 +56,14 @@ Created engagement-based ratios:
 
 ## 📌 Tools Used
 
-- 🐍 Python (Pandas, Scikit-learn, Seaborn for exploration)
-- 📈 Tableau (Dashboard and cluster analysis)
-- 📊 K-Means Clustering
-- 💻 Jupyter Notebook (Optional for preprocessing)
+- Python (Pandas, Scikit-learn, Seaborn for exploration)
+- Tableau (Dashboard and cluster analysis)
+- K-Means Clustering
+- Jupyter Notebook (Optional for preprocessing)
 
 ---
 
-## 🔗 Tableau Dashboard
+## Tableau Dashboard
 
 > [Click here to view the interactive Tableau dashboard](#)
 https://public.tableau.com/app/profile/anubhavdogra/viz/YouTube-Channel-Clustering---Engagement-Analysis/YouTubeClusterDashboard
